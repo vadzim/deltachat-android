@@ -13,7 +13,7 @@
     <item android:title="@string/qrshow_title"
         android:id="@+id/menu_qr_show" />
 
-    <item android:title="@string/menu_deaddrop"
+    <item android:title="@string/menu_contact_requests"
           android:id="@+id/menu_deaddrop" />
 
     <item android:title="@string/menu_settings"
